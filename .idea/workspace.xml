@@ -4,13 +4,12 @@
     <list default="true" id="a17038ae-c426-4b14-8446-92d16f70f698" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="crucru.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="a17038ae-c426-4b14-8446-92d16f70f698" time="1365372603567" ignored="false" />
     <file path="/wine_comApiCalls.rb" changelist="a17038ae-c426-4b14-8446-92d16f70f698" time="1365321409584" ignored="false" />
-    <file path="/Gemfile" changelist="a17038ae-c426-4b14-8446-92d16f70f698" time="1365374742278" ignored="false" />
+    <file path="/Gemfile" changelist="a17038ae-c426-4b14-8446-92d16f70f698" time="1365375101755" ignored="false" />
     <file path="/KLcrawler.rb" changelist="a17038ae-c426-4b14-8446-92d16f70f698" time="1365328023141" ignored="false" />
     <file path="/routes.rb" changelist="a17038ae-c426-4b14-8446-92d16f70f698" time="1365364515258" ignored="false" />
     <file path="/mocksearch.html.erb" changelist="a17038ae-c426-4b14-8446-92d16f70f698" time="1365364174342" ignored="false" />
@@ -34,7 +33,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="22" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
+            <state line="36" column="31" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -142,7 +141,7 @@
       <file leaf-file-name="Gemfile.lock" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="0" selection-start="2408" selection-end="2408" vertical-scroll-proportion="0.5466667">
+            <state line="65" column="35" selection-start="1538" selection-end="1538" vertical-scroll-proportion="-0.55833334">
               <folding />
             </state>
           </provider>
@@ -913,14 +912,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="22" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
+        <state line="36" column="31" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="0" selection-start="2408" selection-end="2408" vertical-scroll-proportion="0.5466667">
+        <state line="65" column="35" selection-start="1538" selection-end="1538" vertical-scroll-proportion="-0.55833334">
           <folding />
         </state>
       </provider>
