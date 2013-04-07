@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a17038ae-c426-4b14-8446-92d16f70f698" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\Adrienne\RubymineProjects\crucru\script\KLcrawler.rb" afterPath="$PROJECT_DIR$/script/klcr.rb" />
-      <change type="MOVED" beforePath="C:\Users\Adrienne\RubymineProjects\crucru\script\wine_comApiCalls.rb" afterPath="$PROJECT_DIR$/script/wapic.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
     </list>
     <ignored path="crucru.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,19 +128,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rails" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/script/rails">
+      <file leaf-file-name="klcr.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/klcr.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
+            <state line="10" column="55" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="klcr.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/script/klcr.rb">
+      <file leaf-file-name="Gemfile.lock" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="39" selection-start="238" selection-end="238" vertical-scroll-proportion="0.18538713">
+            <state line="101" column="35" selection-start="2402" selection-end="2402" vertical-scroll-proportion="0.7033806">
               <folding />
             </state>
           </provider>
@@ -182,6 +181,7 @@
         <option value="$PROJECT_DIR$/app/controllers/mock_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/mock/mocksearch.html.erb" />
         <option value="$PROJECT_DIR$/script/klcr.rb" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
       </list>
     </option>
   </component>
@@ -698,7 +698,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-616" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987553" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -706,7 +706,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987553" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.51867664" sideWeight="0.6701245" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.51867664" sideWeight="0.6701245" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -777,13 +777,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/script/rails">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="7" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/script/klcr.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="4" selection-start="444" selection-end="444" vertical-scroll-proportion="0.0">
@@ -918,7 +911,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script/klcr.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="39" selection-start="238" selection-end="238" vertical-scroll-proportion="0.18538713">
+        <state line="10" column="55" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="35" selection-start="2402" selection-end="2402" vertical-scroll-proportion="0.7033806">
           <folding />
         </state>
       </provider>
