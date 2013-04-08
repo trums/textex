@@ -1,6 +1,8 @@
 Crucru::Application.routes.draw do
-   get "mock/mocksearch"
-   match "/search", to:'mock#mocksearch'
+  get "mock/mocksearch"
+  match "/search", to:'mock#mocksearch'
+  match "/description1", to:'mock#mockdescription1'
+  match "/description2", to:'mock#mockdescription2'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
